@@ -5,7 +5,7 @@
 📊 **Transforming data into actionable stories**  
 🧠 **Growing expertise in Artificial Intelligence & Machine Learning**  
 
-Email Me 👉 ✉️ alamimran613@live.com For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ kash7405@gmail.com For Collaboration/Project or Anything Else. 😊😊
 
 ## 👨‍💻 About Me  
 
