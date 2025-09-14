@@ -15,6 +15,11 @@ Email Me 👉 ✉️ kash7405@gmail.com For Collaboration/Project or Anything El
 - 🤝 Open to collaborations on **AI/ML & Data Science projects**  
 - 🎯 2025 Goal: **Contribute to Open Source Projects & publish research**  
 
+## 🏆 Achievements & Publications  
+
+- 📝 Published Research Paper: *"A Digital Examination Seating Allocation System to Enhance Exam Integrity"* — GR JOURNALS , 2025  
+- 🎓 Currently pursuing MSc in AI/ML with a focus on Data Science  
+
 ---
 
 # 💻 Tech Stack:
