@@ -34,7 +34,7 @@ Email Me 👉 ✉️ kash7405@gmail.com For Collaboration/Project or Anything El
 ---
 
 ## 🌐 Connect with Me:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kashish_reshamwala) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kashish-reshamwala) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kash7405@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/kashish_reshamwala?igsh=MTlwZThteGk2Y2JrNg%3D%3D&utm_source=qr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kashish-reshamwala-12a707256/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kash7405@gmail.com) 
 
 ---
 
