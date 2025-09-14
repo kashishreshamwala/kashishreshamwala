@@ -20,10 +20,10 @@ Email Me 👉 ✉️ kash7405@gmail.com For Collaboration/Project or Anything El
 # 💻 Tech Stack:
 
 ### 🔹 Languages & Frameworks  
-`Python` | `SQL` | `CSS`  
+`Python` | `SQL` | `CSS` | `JavaScript`
 
 ### 🔹 Machine Learning & AI  
-`Matplotlib` | `NumPy` | `Scikit-Learn` | `Pandas` | `NLP`  
+`Matplotlib` | `NumPy` | `Scikit-Learn` | `Pandas` | `NLP` | `Streamlit`
 
 ### 🔹 Databases  
 `Firebase` | `MongoDB` | `MySQL`  
