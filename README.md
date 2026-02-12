@@ -25,16 +25,16 @@ Email Me 👉 ✉️ kash7405@gmail.com For Collaboration/Project or Anything El
 # 💻 Tech Stack:
 
 ### 🔹 Languages & Frameworks  
-`Python` | `SQL` | `CSS` | `JavaScript`
+`Python` | `SQL` | `Django` | `Django REST Framework`
 
 ### 🔹 Machine Learning & AI  
 `Matplotlib` | `NumPy` | `Scikit-Learn` | `Pandas` | `NLP` | `Streamlit`
 
 ### 🔹 Databases  
-`Firebase` | `MongoDB` | `MySQL`  
+`Firebase` | `SQL Server` | `MySQL`  
 
 ### 🔹 Tools  
-`Excel`| `Anaconda` | `Jupyter Notebook` | `Git/GitHub`| `Jupyter` | `VS Code`  
+`Excel`| `Anaconda` | `Jupyter Notebook` | `Git/GitHub`| `Jupyter` | `VS Code`  | `Postman`  
 
 ---
 
