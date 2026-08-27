@@ -70,9 +70,13 @@ Email Me 👉 ✉️ [kash7405@gmail.com](mailto:kash7405@gmail.com) for Collabo
 ---
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kashishreshamwala&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=kashishreshamwala&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kashishreshamwala&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+<p align="left">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kashishreshamwala&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="Kashish's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kashishreshamwala&layout=compact&theme=radical&hide_border=false" alt="Top Languages" width="48%" />
+</p>
+
+![](https://streak-stats.demolab.com/?user=kashishreshamwala&theme=radical&hide_border=false)
 
 ---
 
@@ -81,8 +85,9 @@ Email Me 👉 ✉️ [kash7405@gmail.com](mailto:kash7405@gmail.com) for Collabo
 
 ---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=kashishreshamwala&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 📈 GitHub Profile Summary
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kashishreshamwala&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kashishreshamwala&icon=0&color=0)](https://visitcount.itsvg.in)
+
