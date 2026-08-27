@@ -1,71 +1,45 @@
 # Hi there 👋, I'm **Kashish Reshamwala**  
 
-### 🐍 **Python Developer | Django & Backend Specialist | Data Scientist in Progress**  
-🎓 *MSc AI & Machine Learning Student* | 📊 *Transforming Data & Code into Scalable Solutions*
+### 🔹 *A Passionate* **Python Developer → Data Scientist in Progress** | 🎓 *MSc AI/ML Student*  
 
-Email Me 👉 ✉️ [kash7405@gmail.com](mailto:kash7405@gmail.com) for Collaboration / Projects / Opportunities. 😊
+📊 **Transforming data into actionable stories**  
+🧠 **Growing expertise in Artificial Intelligence & Machine Learning**  
 
----
+Email Me 👉 ✉️ kash7405@gmail.com For Collaboration/Project or Anything Else. 😊😊
 
 ## 👨‍💻 About Me  
 
-- 🔭 Currently building **Scalable Backend Systems & REST APIs** using **Python & Django REST Framework**  
-- 🧠 Deepening expertise in **Data Analytics, Machine Learning & MLOps**  
-- ⚡ Skilled in **Django ORM optimization, SQL database design, and end-to-end Python scripting**  
-- 🌱 Learning **MLOps, Generative AI & Cloud Infrastructure (AWS, Azure, GCP)**  
-- 🤝 Open to collaborations on **Python Backend, API Development & AI/ML Projects**  
-- 🎯 **2025 Goal:** Contribute to open-source Python projects & publish applied AI research  
-
----
-
-## 💡 What I Do Best
-
-- ⚡ **Backend & API Architecture:** Designing robust RESTful APIs, custom authentication workflows, and scalable backend logic using **Python, Django, & DRF**.
-- 📈 **Data Analytics & ML:** Data wrangling, exploratory analysis, and predictive modeling using **Pandas, NumPy, & Scikit-Learn**.
-- 🗄️ **Database Design & ORM:** Writing optimized SQL queries and leveraging **Django ORM** for clean data persistence.
-- 🚀 **Data Apps:** Building interactive ML demos and analytical dashboards with **Streamlit**.
-
----
-
-## 🛠️ Tech Stack & Skillset:
-
-### 🔹 Python & Backend Development  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Django REST Framework](https://img.shields.io/badge/Django%20REST%20Framework-A30000?style=for-the-badge&logo=django&logoColor=white)
-
-### 🔹 Data Science & Machine Learning  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F79939?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-Natural%20Language%20Processing-blueviolet?style=for-the-badge)
-
-### 🔹 Databases & Data Warehousing  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### 🔹 Tools & Workflow  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
-
----
+- 🔭 Currently working on **Data Analytics & ML Projects**  
+- 🌱 Learning **MLOps, Generative AI & Cloud Technologies (AWS, Azure, GCP)**  
+- 💡 Love solving **complex problems with data-driven solutions**  
+- 🤝 Open to collaborations on **AI/ML & Data Science projects**  
+- 🎯 2025 Goal: **Contribute to Open Source Projects & publish research**  
 
 ## 🏆 Achievements & Publications  
 
-- 📝 Published Research Paper: *"A Digital Examination Seating Allocation System to Enhance Exam Integrity"* — GR JOURNALS, 2025  
-- 🎓 Currently pursuing MSc in AI/ML with a focus on Data Science & Backend Systems  
+- 📝 Published Research Paper: *"A Digital Examination Seating Allocation System to Enhance Exam Integrity"* — GR JOURNALS , 2025  
+- 🎓 Currently pursuing MSc in AI/ML with a focus on Data Science  
+
+---
+
+# 💻 Tech Stack:
+
+### 🔹 Languages & Frameworks  
+`Python` | `SQL` | `Django` | `Django REST Framework`
+
+### 🔹 Machine Learning & AI  
+`Matplotlib` | `NumPy` | `Scikit-Learn` | `Pandas` | `NLP` | `Streamlit`
+
+### 🔹 Databases  
+`Firebase` | `SQL Server` | `MySQL`  
+
+### 🔹 Tools  
+`Excel`| `Anaconda` | `Jupyter Notebook` | `Git/GitHub`| `Jupyter` | `VS Code`  | `Postman`  
 
 ---
 
 ## 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kashish-reshamwala-12a707256/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kash7405@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/kashish_reshamwala?igsh=MTlwZThteGk2Y2JrNg%3D%3D&utm_source=qr) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/kashish_reshamwala?igsh=MTlwZThteGk2Y2JrNg%3D%3D&utm_source=qr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kashish-reshamwala-12a707256/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kash7405@gmail.com) 
 
 ---
 
@@ -73,6 +47,7 @@ Email Me 👉 ✉️ [kash7405@gmail.com](mailto:kash7405@gmail.com) for Collabo
 ![](https://github-readme-stats.vercel.app/api?username=kashishreshamwala&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=kashishreshamwala&theme=default_repocard&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kashishreshamwala&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 ---
 
 ### ✍️ Random Dev Quote
@@ -85,3 +60,5 @@ Email Me 👉 ✉️ [kash7405@gmail.com](mailto:kash7405@gmail.com) for Collabo
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kashishreshamwala&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
