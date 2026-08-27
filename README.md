@@ -69,16 +69,24 @@ Email Me 👉 ✉️ [kash7405@gmail.com](mailto:kash7405@gmail.com) for Collabo
 
 ---
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats & Activity:
 
 <p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kashishreshamwala&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="Kashish's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kashishreshamwala&layout=compact&theme=radical&hide_border=false" alt="Top Languages" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kashishreshamwala&theme=radical" alt="Kashish's GitHub Stats" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kashishreshamwala&theme=radical" alt="Languages Card" width="48%" />
+</p>
+
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kashishreshamwala&theme=radical" alt="Most Commit Language" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kashishreshamwala&theme=radical" alt="Profile Details" width="48%" />
 </p>
 
 ![](https://streak-stats.demolab.com/?user=kashishreshamwala&theme=radical&hide_border=false)
 
 ---
+
+[![](https://visitcount.itsvg.in/api?id=kashishreshamwala&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
