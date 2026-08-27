@@ -1,6 +1,6 @@
 # Hi there 👋, I'm **Kashish Reshamwala**  
 
-### 🔹 *A Passionate* **Pythod Developer → Data Scientist in Progress** | 🎓 *MSc AI/ML Student*  
+### 🔹 *A Passionate* **Python Developer → Data Scientist in Progress** | 🎓 *MSc AI/ML Student*  
 
 📊 **Transforming data into actionable stories**  
 🧠 **Growing expertise in Artificial Intelligence & Machine Learning**  
