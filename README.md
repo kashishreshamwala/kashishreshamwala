@@ -91,11 +91,3 @@ Email Me 👉 ✉️ [kash7405@gmail.com](mailto:kash7405@gmail.com) for Collabo
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-
-### 📈 GitHub Profile Summary
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kashishreshamwala&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=kashishreshamwala&icon=0&color=0)](https://visitcount.itsvg.in)
-
